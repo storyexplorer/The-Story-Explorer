@@ -32,7 +32,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
@@ -172,7 +172,7 @@ span[data-pullquote]:before {
   padding: 0 -5% 0 0;
   font-size: 1.3em;
   font-style: italic;
-  color: green;
+  color: $blue;
   text-align: center;
 }
 
@@ -265,7 +265,7 @@ p > img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 25px;
+  margin-bottom: 5px;
 }
 
 .masthead {
@@ -357,6 +357,50 @@ nav {
     }
   }
 
+  a:hover {
+    color: $blue;
+  }
+
+  li {
+    display: inline;
+  }
+
+}
+
+cat-nav {
+  float: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  font-family: $helveticaNeue;
+  font-size: 20px;
+  text-align: center;
+
+  @include mobile {
+    float: none;
+    margin-top: 0px;
+    display: block;
+    font-size: 20px;
+  }
+
+  a {
+    display: inline-block;
+    margin-left: 20px;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 600;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 20px;
+      //color: $blue;
+    }
+  }
+
+  a:hover {
+    color: $blue;
+  }
+
   li {
     display: inline;
   }
@@ -428,6 +472,12 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  margin: 10px;
+
+  a {
+    padding: 20px;
+    text-align: center;
+  }
 }
 
 body:after {
@@ -707,7 +757,7 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: $blue;
   border-radius: 50px;
   color: #fff;
 }

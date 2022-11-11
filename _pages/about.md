@@ -3,27 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+## About The Story Explorer
+The Story Explorer is all about asking questions and exploring what makes a story meaningful. How do we create something that we can feel, that people connect with and are moved by? Story is a fundamental part of the human experience ... anyone can follow along...
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+To explore these ideas and questions, I plan to publish blog posts and resources in three broad categories:
+1) Story Fundamentals: Generally discuss and teach the basics of storytelling theory along with some of my own ideas on the craft. 
+2) Story Analysis: Focus on the story related aspects of various books, movies, songs/albums (lyrical), and poems that show story fundamentals in action.
+<!-- 3) Stories We Live By: Open-ended dives into topics that relate to our conceptual systems. The overall idea is to engage in some thought-provoking ideas about  -->
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## About the Author
+Some info about me. 
+<!-- Storytelling has really embedded much of my life in various ways, but I consciously started researching and learning storytelling in 2018. I fell in love with the craft after reading Philip Pullman's Daemon Voices, and the more I researched the more fascinating things I found: philosophy, psychology, sociology, mythology, folklore, fairy tales, linguistics, neuroscience, literature, ...   Scientist and engineer by training, and I found that embedding storytelling techniques to teaching and academic writing...    Mainly interested in writing prose, but I also dabble in music and songwriting.   -->
