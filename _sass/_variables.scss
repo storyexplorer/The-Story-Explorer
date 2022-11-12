@@ -4,20 +4,27 @@
 //
 
 // Colors
-$blue: #4183C4;
+//$blue: #4183C4;
+
+// logo colors 
+$darkblue: #263573;
+$blue: #729FCF;
+$red: #C13131;
+$gray: #919191;
 
 // Grays
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
-$gray: #666;
+//$gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$site_font: Vollkorn;
+$helvetica: $site_font;// Helvetica, Arial, sans-serif;
+$helveticaNeue: $site_font;//"Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: $site_font;//Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {

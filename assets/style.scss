@@ -13,7 +13,11 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+// @import url('https://fonts.googleapis.com/css?family=Stoke');
+// @import url('https://fonts.googleapis.com/css?family=Montaga');
+// @import url('https://fonts.googleapis.com/css?family=Alegreya');
+// @import url('https://fonts.googleapis.com/css?family=Jacques%20Francois');
 
 html {
   font-size: 100%;
@@ -22,11 +26,12 @@ html {
 
 body {
   background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #404040;
+  //font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $site_font;
+  color: $darkGray;
   line-height: 1.7;
-  font-weight: 400;
-  font-size: 18px;
+  font-weight: 500;
+  font-size: 20px;
   height: 100%;
 }
 
@@ -38,7 +43,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $site_font;
   color: $darkerGray;
   font-weight: bold;
 
@@ -137,18 +142,20 @@ table tr td :last-child {
 
 #search-container {
   text-align: center;
+  font-family: $site_font;
 }
 
 #search-input {
+  font-family: $site_font;
   width: 80%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid $gray;
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 18px;
-  background-color: #fff3ff;
+  background-color: #ffffff;
 }
 
 .share-box {
@@ -177,7 +184,7 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: $black;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -306,9 +313,9 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $black;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $site_font;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -332,7 +339,7 @@ p > img {
 nav {
   float: none;
   margin-top: 15px;
-  font-family: $helveticaNeue;
+  font-family: $site_font;
   font-size: 18px;
   text-align: center;
 
@@ -366,12 +373,16 @@ nav {
   }
 }
 
+a:hover h1:hover {
+  color: $blue;
+}
+
 cat-nav {
   float: none;
   display: flex;
   justify-content: center;
   margin-top: 5px;
-  font-family: $helveticaNeue;
+  font-family: $site_font;
   font-size: 20px;
   text-align: center;
 
@@ -408,7 +419,12 @@ cat-nav {
   li {
     display: inline;
   }
+}
 
+hr {
+  border: none;
+  height: 2px;
+  background-color: $black;
 }
 
 //
@@ -512,7 +528,7 @@ body:after {
 }
 
 .post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $site_font; //-system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -521,7 +537,7 @@ body:after {
 }
 
 .page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $site_font; //-system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -543,7 +559,7 @@ body:after {
 .cd-container a {
   color: #30434e;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
+  font-family: $site_font; //"Open Sans", sans-serif;
 }
 
 .cd-container img {
@@ -551,7 +567,7 @@ body:after {
 }
 
 .cd-container h1, .cd-container h2 {
-  font-family: "Open Sans", sans-serif;
+  font-family: $site_font; //"Open Sans", sans-serif;
   font-weight: bold;
 }
 
