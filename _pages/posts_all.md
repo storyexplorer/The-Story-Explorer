@@ -4,12 +4,11 @@ permalink: /posts/all/
 title:
 ---
 
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.scss" />
 <cat-nav>
-    <a style="color:#4183C4" href="{{ site.baseurl }}/posts/all">All</a>
-    <a href="{{ site.baseurl }}/posts/story-fundamentals">Story Fundamentals</a>
-    <a href="{{ site.baseurl }}/posts/story-analysis">Story Analysis</a>
-    <!-- <a href="{{ site.baseurl }}/posts/stories-we-live-by">Stories We Live By</a> -->
+  <a style="color:#4183C4" href="{{ site.baseurl }}/posts/all">All</a>
+  <a href="{{ site.baseurl }}/posts/story-fundamentals">Story Fundamentals</a>
+  <a href="{{ site.baseurl }}/posts/story-analysis">Story Analysis</a>
+  <!-- <a href="{{ site.baseurl }}/posts/stories-we-live-by">Stories We Live By</a> -->
 </cat-nav>
 
 <hr>

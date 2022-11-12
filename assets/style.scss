@@ -279,8 +279,8 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   margin-right: 15px;
 
   @include mobile {
@@ -364,7 +364,6 @@ nav {
   li {
     display: inline;
   }
-
 }
 
 cat-nav {
@@ -396,6 +395,11 @@ cat-nav {
       //color: $blue;
     }
   }
+
+  // a.current {
+  //   background:red;
+  //   color:white;
+  // }
 
   a:hover {
     color: $blue;
@@ -458,36 +462,41 @@ cat-nav {
 }
 
 .wrapper-main {
-  padding-bottom: 134px;
+  padding-bottom: 150px;
 }
 
 .wrapper-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 89px;
-  background-color: $lightGray;
+  height: 75px;
+  // background-color: $lightGray;
+  margin-bottom: 0px;
 }
 
 footer {
-  padding: 20px 0;
+  position: relative;
   text-align: center;
-  margin: 10px;
+  padding: 20px 0;
+  margin-bottom: -20px;
+  background-color: $lightGray;
 
   a {
-    padding: 20px;
+    font-size: 16px;
+    padding: 12px;
     text-align: center;
+    color: $gray
   }
 }
 
 body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
-    width: 100%;
-    height: 5px;
-    top: 0;
-    position: absolute;
-    left: 0;
-    content: '';
+  // background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #188100   66%, #ffffff 100%);
+  width: 100%;
+  height: 5px;
+  top: 0;
+  position: absolute;
+  left: 0;
+  content: '';
 }
 
 #bar {

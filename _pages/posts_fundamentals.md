@@ -4,7 +4,6 @@ permalink: /posts/story-fundamentals/
 title:
 ---
 
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.scss" />
 <cat-nav>
     <a href="{{ site.baseurl }}/posts/all">All</a>
     <a style="color:#4183C4" href="{{ site.baseurl }}/posts/story-fundamentals">Story Fundamentals</a>
