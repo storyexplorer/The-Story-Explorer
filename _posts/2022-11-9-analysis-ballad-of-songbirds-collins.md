@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Story Analysis: The Ballad of Songbirds and Snakes"
+title: "The Ballad of Songbirds and Snakes"
 categories: [Story Analysis]
 ---
 

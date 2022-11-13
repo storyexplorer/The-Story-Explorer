@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stories We Live By: Agency and Image Schemas"
+title: "Agency and Image Schemas"
 categories: [Stories We Live By]
 ---
 

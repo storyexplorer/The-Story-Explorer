@@ -21,6 +21,17 @@ title:
       </h1>
       <div>
         <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+        <div class="post-tags">
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+            <a>{{category}}</a>
+            {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+        </div>
       </div>
       <div class="entry">
         {{ post.excerpt }}
