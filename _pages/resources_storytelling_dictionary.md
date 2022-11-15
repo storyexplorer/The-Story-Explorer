@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Storytelling Dictionary
-permalink: /dictionary/
+permalink: /resources/dictionary/
 ---
 This is a collection of various storytelling terms and definitions I've come across. 
 

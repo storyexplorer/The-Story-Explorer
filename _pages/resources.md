@@ -5,7 +5,10 @@ permalink: /resources/
 ---
 Here are some of my favorite resources I've come across while learning about storytelling. Some of these sources are a step removed from storytelling but also helped me develop my understanding of the craft.
 
-I'm also working on a [Storytelling Dictionary]({{ sit.baseurl }}/dictionary). 
+I'm also working these as well:
+  - [Storytelling Dictionary]({{ sit.baseurl }}/resources/dictionary)
+  - [List of Story Particles (Image Schemas)]({{ sit.baseurl }}/resources/image-schema-list)
+
 
 <div class="fancy-table-wrap">
 <table id="table-resources" class="fancy-table">

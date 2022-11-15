@@ -479,10 +479,12 @@ hr {
 
 .fancy-table-sort-header::-moz-selection {
   background: 0 0;
+  color: white;
 }
 
 .fancy-table-sort-header::selection {
   background: 0 0;
+  color: white;
 }
 
 .fancy-table-sort-header {
@@ -495,22 +497,25 @@ hr {
   margin-top: 7px;
   border-width: 0 5px 5px;
   border-style: solid;
-  border-color: $darkerGray transparent;
+  border-color: white transparent;
   visibility: hidden;
 }
 
 .fancy-table-sort-header:hover:after {
   visibility: visible;
+  color: white;
 }
 
 .fancy-table-sort-asc:after,.fancy-table-sort-asc:hover:after,.fancy-table-sort-desc:after {
   visibility: visible;
-  opacity: 0.4;
+  color: white;
+  // opacity: 0.4;
 }
 
 .fancy-table-sort-desc:after{ 
   border-bottom: none;
   border-width: 5px 5px 0;
+  color: white;
 }
 
 @media screen and (max-width: 767px) {
@@ -582,7 +587,7 @@ hr {
 .wrapper-main {
   margin: 0 auto;
   padding-bottom: 150px;
-  max-width: 750px;
+  max-width: 800px;
 }
 
 .wrapper-footer {
