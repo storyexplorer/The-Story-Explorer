@@ -428,6 +428,107 @@ hr {
   background-color: $black;
 }
 
+// Fancy sorting table formatting based on https://www.tablesgenerator.com/html_tables# 
+.fancy-table  {
+  border-collapse:collapse;
+  border-color:#93a1a1;
+  border-spacing:0;
+  margin:0px auto;
+}
+
+.fancy-table td {
+  background-color: #fdf6e3;
+  border-color: #93a1a1;
+  border-style: solid;
+  border-width: 1px;
+  // color: #002b36;
+  //font-family: Arial, sans-serif;
+  //font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.fancy-table th {
+  background-color: $darkGray;
+  border-color: $gray;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+  //font-family: Arial, sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.fancy-table .fancy-table-header {
+  background-color: $darkblue;
+  border-color: #000000;
+  text-align: left;
+  vertical-align: top;
+}
+
+.fancy-table .fancy-table-body {
+  background-color: #ffffff;
+  border-color: #000000;
+  text-align: left;
+  vertical-align: top;
+}
+
+.fancy-table-sort-header::-moz-selection {
+  background: 0 0;
+}
+
+.fancy-table-sort-header::selection {
+  background: 0 0;
+}
+
+.fancy-table-sort-header {
+  cursor: pointer;
+}
+
+.fancy-table-sort-header:after {
+  content: '';
+  float: right;
+  margin-top: 7px;
+  border-width: 0 5px 5px;
+  border-style: solid;
+  border-color: $darkerGray transparent;
+  visibility: hidden;
+}
+
+.fancy-table-sort-header:hover:after {
+  visibility: visible;
+}
+
+.fancy-table-sort-asc:after,.fancy-table-sort-asc:hover:after,.fancy-table-sort-desc:after {
+  visibility: visible;
+  opacity: 0.4;
+}
+
+.fancy-table-sort-desc:after{ 
+  border-bottom: none;
+  border-width: 5px 5px 0;
+}
+
+@media screen and (max-width: 767px) {
+  .fancy-table {
+      width: auto !important;
+  }
+
+  .fancy-table col {
+      width: auto !important;
+  }
+
+  .fancy-table-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: auto 0px;
+  }
+}
+
 //
 // .main
 //
@@ -479,7 +580,9 @@ hr {
 }
 
 .wrapper-main {
+  margin: 0 auto;
   padding-bottom: 150px;
+  max-width: 750px;
 }
 
 .wrapper-footer {
