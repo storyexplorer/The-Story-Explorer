@@ -331,10 +331,21 @@ p > img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  max-width: 250px;
+  font-style: italic;
+  text-align: center;
+
 
   @include mobile {
-    margin: 3px 0;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    
   }
+}
+
+.mail span:nth-child(3n + 1){
+	display: none;
 }
 
 nav {
@@ -426,6 +437,14 @@ hr {
   border: none;
   height: 2px;
   background-color: $black;
+}
+
+// References formatting 
+.references {
+  ol li{
+    list-style-type: none;
+    // color: blue;
+  }  
 }
 
 // Fancy sorting table formatting based on https://www.tablesgenerator.com/html_tables# 
@@ -553,10 +572,10 @@ hr {
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: $gray;
+    color: $darkGray;
     font-size: 22px;
     font-style: italic;
-    background-color: #ede1ff;
+    background-color: $lightGray;
   }
 
   .you-may-like{

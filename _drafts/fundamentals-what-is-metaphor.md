@@ -2,11 +2,11 @@
 layout: post
 title:  What is Metaphor?
 categories: [Story Fundamentals]
-excerpt: <span style="font-variant:small-caps;">Metaphor Is Embodied Experience</span>
+excerpt: <span style="font-variant:small-caps;">Metaphor Is Embodied Meaning</span>
 ---
 
 
-<span style="font-variant:small-caps;">Metaphor Is Embodied Experience</span>
+<span style="font-variant:small-caps;">Metaphor Is Embodied Meaning</span>
 
 - There are a ton of definitions out there about metaphor:
     - List...

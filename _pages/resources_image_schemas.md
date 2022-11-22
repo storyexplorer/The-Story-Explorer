@@ -3,11 +3,19 @@ layout: page
 title: "Story Particles"
 permalink: /resources/image-schema-list/
 ---
-This is a list of what Philip Pullman calls "Story Particles" in his essay titled Poco a Paco from Daemon Voices. Story Particles are also known as image schemas or experiential gestalts, and they correspond to the "natural" kinds of experiences that result from human nature: our physical bodies and internal experience, our interactions with our physcial environment, and our interactions with other people within our culture and others (p 117-119 Meatphors We Live By). Overall, these story particles are what language and metaphor are made of.
 
-I keep this list on paper next to me whenever I am trying to explore the metaphors in a story I'm writing or analyzing. I'll even just make a list of all the image schemas in a story to understand the underlying conceptual systems and fundamental actions. In making new metaphors, it really helps to get creative and combine different ideas from this list with other stories and see if something makes sense.
+**The main idea: Use this list to create metaphors or understand those you find in a story.**
 
-I present these story particles as a list of experiences and actions along with their "opposites" (keep in mind how this can be used as a tool to create conflict in a story). I also include some other relations, entailments, and ideas too.
+**Some Background:**
+
+This is an incomplete list of what Philip Pullman calls "story particles" in his essay titled "Poco a Poco" from *Daemon Voices* [[^daemon]]. Story particles are also known as image schemas or experiential gestalts, and they correspond to the "natural" kinds of experiences that result from human nature: our physical bodies and internal experience, our interactions with our physcial environment, and our interactions with other people within our culture and others. Overall, these story particles are what language and metaphor are made of [[^MWLB]].
+
+I present these story particles as a list of experiences and actions along with their "opposites" (keep in mind how this can be used as a tool to create conflict in a story or show change). I built this list using a variety of sources (like *Daemon Voices* [[^daemon]] and *Meatphors We Live By* [[^MWLB]]) along with my own story analysis and observations. I also include some other relations, entailments, and ideas too. I'll update this too as I discover new schemas.
+
+I usually keep this list on paper next to me whenever I am trying to explore the metaphors in a story I'm writing or analyzing. I'll even just make a list of all the image schemas in a story to understand the underlying conceptual systems and fundamental actions. In making new metaphors, it really helps to get creative and combine different ideas from this list with other stories/motifs and see if something cool happens. 
+
+[^daemon]: [*Daemon Voices*, Philip Pullman, 2019]({{ site.base }}/resources)
+[^MWLB]: [*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003, see p. 117-119]({{ site.base }}/resources)
 
 <div class="fancy-table-wrap">
 <table id="table-resources" class="fancy-table">

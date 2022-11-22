@@ -1,24 +1,41 @@
 ---
 layout: post
-title:  What is Story?
+title: What is Story?
 categories: [Story Fundamentals]
-excerpt: A story is a metaphor... But there's more to it than that.
+excerpt: Story is metaphor...
 ---
 
-This is a big question.
+Welcome to The Story Explorer!
 
-Before we continue...
+Before diving in, you might be wondering, What is The Story Explorer? Besides what’s on the [about]({{ sit.baseurl }}/about) page, this question is best answered with another question:
 
-You can define what a story is and how to create one however you would like. This is just my idea, and how I think about the craft. What I propose below is a **tool, not a formula,** for thinking about crafting meaningful stories. 
+**What is Story?**
 
-- Meg LeFauve quote: The story *is* the metaphor.
+There are a lot of answers out there to this question, but it seems Aristotle knew the answer a couple thousand years ago:
+
+"Epic poetry and Tragedy, Comedy also and Dithyrambic poetry, and the music of the flute and of the lyre in most of the forms, are all in their general conception modes of imitation."
+
+And Aristotle elaborates what is being imitated: "character, emotion, and action" and "moral differences" [[^poetics]]. Essentially Aristotle is saying that story is a reflection of human exerpeience and meaning. 
+
+The short answer: Story is metaphor.
+
+How did I arrive at this answer? Stories are created through some sort of medium.
 
 
 
-In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="A story is a metaphor." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
+Another reference... :) [[^daemon]]
 
-Placement of a pull quote on a page may be defined in a publication's or website's style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns, as in the example shown. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it.
+reuse a reference [[^TSL-arndt]]
 
-Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication's house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.
-
-A disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, pull quote can serve as visual landmarks to help the reader maintain a sense of sequence and place.
+## References
+[^TSL]: [The Screenwriting Life: 49 \| Michael Arndt's Act 1 Masterclass](https://anchor.fm/thescreenwritinglife/)
+[^daemon]: [*Daemon Voices*, Philip Pullman, 2019]({{ site.base }}/resources#daemon-voices)
+[^MWLB]: [*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003]({{ site.base }}/resources#mwlb)
+[^Turner]: [*The Literary Mind*, Mark Turner, 1998]({{ site.base }}/resources#literary-mind)
+[^Arndt-endings]:
+[^Arndt-TS3]: 
+[^Johnson-understanding]: 
+[^Lakoff-]: --> I think in one of those lectures I watched either one or both Lakoff and Johnson talked about the neuroscientific evidence for metaphor as embodied meaning.
+[^Johnson-]:
+[^story-defn-MW]: [NEED TO CITE dictionary defn properly](https://www.merriam-webster.com/dictionary/story)
+[^poetics]: [*The Poetics of Aristotle*, Translated by Samuel Henry Butcher, 1907](https://www.google.com/books/edition/The_Poetics_of_Aristotle/OdBDAQAAMAAJ?hl=en&gbpv=1&printsec=frontcover)

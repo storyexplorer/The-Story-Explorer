@@ -26,13 +26,13 @@ I'm also working these as well:
 <!-- WEBSITES -->
 <!-- -------- -->
   <tr>
-    <td class="fancy-table-body"> <a href="{{ site.baseurl }}/"> The Story Explorer </a>  : ) </td>
+    <td class="fancy-table-body"> <a id="story-explorer" href="{{ site.baseurl }}/"> The Story Explorer </a>  : ) </td>
     <td class="fancy-table-body">Alex Gigliotti</td>
     <td class="fancy-table-body">Website</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://www.khanacademy.org/computing/pixar/storytelling">Pixar in a Box: The Art of Storytelling </a></td>
+    <td class="fancy-table-body"> <a id="pixar-storytelling" href="https://www.khanacademy.org/computing/pixar/storytelling">Pixar in a Box: The Art of Storytelling </a></td>
     <td class="fancy-table-body">Khan Academy and Pixar</td>
     <td class="fancy-table-body">Website</td>
   </tr>
@@ -42,25 +42,25 @@ I'm also working these as well:
 <!-- VIDEO -->
 <!-- ----- -->
   <tr>
-    <td class="fancy-table-body"> <a href="http://www.pandemoniuminc.com/">Pandemonium, Inc. </a></td>
+    <td class="fancy-table-body"> <a id="arndt-pandemonium" href="http://www.pandemoniuminc.com/">Pandemonium, Inc. </a></td>
     <td class="fancy-table-body">Michael Arndt</td>
     <td class="fancy-table-body">Video</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://www.youtube.com/playlist?list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ">Creative Writing Lectures at BYU</a></td>
+    <td class="fancy-table-body"> <a id="sanderson-lectures" href="https://www.youtube.com/playlist?list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ">Creative Writing Lectures at BYU</a></td>
     <td class="fancy-table-body">Brandon Sanderson</td>
     <td class="fancy-table-body">Video</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://www.youtube.com/watch?v=oH9sJrAVeC0">The Common Lie Writers Tell You</a></td>
+    <td class="fancy-table-body"> <a id="sanderson-common-lie" href="https://www.youtube.com/watch?v=oH9sJrAVeC0">The Common Lie Writers Tell You</a></td>
     <td class="fancy-table-body">Brandon Sanderson</td>
     <td class="fancy-table-body">Video</td>
   </tr>  
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw">Lessons from the Screenplay</a></td>
+    <td class="fancy-table-body"> <a id="lfts" href="https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw">Lessons from the Screenplay</a></td>
     <td class="fancy-table-body">Michael Tucker</td>
     <td class="fancy-table-body">Video</td>
   </tr>
@@ -71,7 +71,7 @@ I'm also working these as well:
 <!-- PODCAST -->
 <!-- ------- -->
   <tr>
-    <td class="fancy-table-body"> <a href="https://anchor.fm/thescreenwritinglife">The Screenwriting Life </a></td>
+    <td class="fancy-table-body"> <a id = "tsl" href="https://anchor.fm/thescreenwritinglife">The Screenwriting Life </a></td>
     <td class="fancy-table-body">Meg LeFauve & Lorien McKenna</td>
     <td class="fancy-table-body">Podcast</td>
   </tr>
@@ -81,37 +81,37 @@ I'm also working these as well:
 <!-- BOOK -->
 <!-- ---- -->
   <tr>
-    <td class="fancy-table-body"> <a href="https://bookshop.org/p/books/daemon-voices-on-stories-and-storytelling-philip-pullman/12076374?ean=9780525562955">Daemon Voices </a></td>
+    <td class="fancy-table-body"> <a id="daemon-voices" href="https://bookshop.org/p/books/daemon-voices-on-stories-and-storytelling-philip-pullman/12076374?ean=9780525562955">Daemon Voices </a></td>
     <td class="fancy-table-body">Philip Pullman</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://bookshop.org/p/books/invisible-ink-a-practical-guide-to-building-stories-that-resonate-brian-mcdonald/11670606?ean=9780998534473">Invisible Ink</a></td>
+    <td class="fancy-table-body"> <a id="invisible-ink" href="https://bookshop.org/p/books/invisible-ink-a-practical-guide-to-building-stories-that-resonate-brian-mcdonald/11670606?ean=9780998534473">Invisible Ink</a></td>
     <td class="fancy-table-body">Brian McDonald</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://bookshop.org/p/books/steering-the-craft-a-twenty-first-century-guide-to-sailing-the-sea-of-story-ursula-k-le-guin/7084668?ean=9780544611610">Steering the Craft </a></td>
+    <td class="fancy-table-body"> <a id="steering-the-craft" href="https://bookshop.org/p/books/steering-the-craft-a-twenty-first-century-guide-to-sailing-the-sea-of-story-ursula-k-le-guin/7084668?ean=9780544611610">Steering the Craft </a></td>
     <td class="fancy-table-body">Ursula K. Le Guin</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://bookshop.org/p/books/atlas-of-the-heart-mapping-meaningful-connection-and-the-language-of-human-experience-brene-brown/17210802?ean=9780399592553">Atlas of the Heart </a></td>
+    <td class="fancy-table-body"> <a id="brown-atlas" href="https://bookshop.org/p/books/atlas-of-the-heart-mapping-meaningful-connection-and-the-language-of-human-experience-brene-brown/17210802?ean=9780399592553">Atlas of the Heart </a></td>
     <td class="fancy-table-body">Bren&eacute; Brown</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://bookshop.org/p/books/metaphors-we-live-by-george-lakoff/6803420?ean=9780226468013">Metaphors We Live By</a></td>
+    <td class="fancy-table-body"> <a id = "mwlb" href="https://bookshop.org/p/books/metaphors-we-live-by-george-lakoff/6803420?ean=9780226468013">Metaphors We Live By</a></td>
     <td class="fancy-table-body">George Lakoff and Mark Johnson</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://bookshop.org/p/books/the-literary-mind-the-origins-of-thought-and-language-mark-turner/11845849?ean=9780195126679">The Literary Mind</a></td>
+    <td class="fancy-table-body"> <a id="literary-mind" href="https://bookshop.org/p/books/the-literary-mind-the-origins-of-thought-and-language-mark-turner/11845849?ean=9780195126679">The Literary Mind</a></td>
     <td class="fancy-table-body">Mark Turner</td>
     <td class="fancy-table-body">Book</td>
   </tr>
@@ -124,7 +124,7 @@ I'm also working these as well:
 <!-- -------- -->
 
   <tr>
-    <td class="fancy-table-body"> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00875/full">Embodied Understanding</a></td>
+    <td class="fancy-table-body"> <a id="johnson-embodied-understanding" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00875/full">Embodied Understanding</a></td>
     <td class="fancy-table-body">Mark Johnson</td>
     <td class="fancy-table-body">Academic</td>
   </tr>
