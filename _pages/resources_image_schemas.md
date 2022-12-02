@@ -4,7 +4,7 @@ title: "Story Particles"
 permalink: /resources/image-schema-list/
 ---
 
-**The main idea: Use this list to create metaphors or understand those you find in a story.**
+**The Main Idea: Use this list to create metaphors or understand those you find in a story.**
 
 **Some Background:**
 

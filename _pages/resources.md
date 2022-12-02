@@ -76,12 +76,17 @@ I'm also working these as well:
     <td class="fancy-table-body">Podcast</td>
   </tr>
 
+  <tr>
+    <td class="fancy-table-body"> <a id = "tsl" href="https://writeinvisibleink.com/episodes/">You Are a Storyteller </a></td>
+    <td class="fancy-table-body">Brian McDonald and Jesse Bryan</td>
+    <td class="fancy-table-body">Podcast</td>
+  </tr>
 
 <!-- ---- -->
 <!-- BOOK -->
 <!-- ---- -->
   <tr>
-    <td class="fancy-table-body"> <a id="daemon-voices" href="https://bookshop.org/p/books/daemon-voices-on-stories-and-storytelling-philip-pullman/12076374?ean=9780525562955">Daemon Voices </a></td>
+    <td class="fancy-table-body"> <a id="daemon-voices" href="https://bookshop.org/p/books/daemon-voices-on-stories-and-storytelling-philip-pullman/12076374?ean=9780525562955">Daemon Voices: On Stories and Storytelling </a></td>
     <td class="fancy-table-body">Philip Pullman</td>
     <td class="fancy-table-body">Book</td>
   </tr>
@@ -93,7 +98,7 @@ I'm also working these as well:
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="steering-the-craft" href="https://bookshop.org/p/books/steering-the-craft-a-twenty-first-century-guide-to-sailing-the-sea-of-story-ursula-k-le-guin/7084668?ean=9780544611610">Steering the Craft </a></td>
+    <td class="fancy-table-body"> <a id="steering-the-craft" href="https://bookshop.org/p/books/steering-the-craft-a-twenty-first-century-guide-to-sailing-the-sea-of-story-ursula-k-le-guin/7084668?ean=9780544611610">Steering the Craft</a></td>
     <td class="fancy-table-body">Ursula K. Le Guin</td>
     <td class="fancy-table-body">Book</td>
   </tr>
@@ -111,11 +116,22 @@ I'm also working these as well:
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="literary-mind" href="https://bookshop.org/p/books/the-literary-mind-the-origins-of-thought-and-language-mark-turner/11845849?ean=9780195126679">The Literary Mind</a></td>
+    <td class="fancy-table-body"> <a id="literary-mind" href="https://bookshop.org/p/books/the-literary-mind-the-origins-of-thought-and-language-mark-turner/11845849?ean=9780195126679">The Literary Mind: The Origins of Thought and Language</a></td>
     <td class="fancy-table-body">Mark Turner</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
+  <tr>
+    <td class="fancy-table-body"> <a id="literary-mind" href="">What I Talk About When I Talk About Running</a></td>
+    <td class="fancy-table-body">Haruki Murakami</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> <a id="literary-mind" href="">On Becoming a Person: A Therapist's View of Psychotherapy</a></td>
+    <td class="fancy-table-body">Carl Rogers</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
 
 
 

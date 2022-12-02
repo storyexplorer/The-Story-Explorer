@@ -13,11 +13,11 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Vollkorn');
-// @import url('https://fonts.googleapis.com/css?family=Stoke');
-// @import url('https://fonts.googleapis.com/css?family=Montaga');
-// @import url('https://fonts.googleapis.com/css?family=Alegreya');
-// @import url('https://fonts.googleapis.com/css?family=Jacques%20Francois');
+@font-face {
+  font-family: $site_font;
+  src: url("../assets/fonts/vollkorn-4-105");
+  font-weight: bolder;
+}
 
 html {
   font-size: 100%;

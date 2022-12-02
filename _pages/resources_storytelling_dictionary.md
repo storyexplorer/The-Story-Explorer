@@ -10,33 +10,36 @@ This is a collection of various storytelling terms and definitions I've come acr
 <thead>
   <tr>
     <th class="fancy-table-header">Term</th>
-    <th class="fancy-table-header">Definition</th>
-    <th class="fancy-table-header">Source</th>
+    <th class="fancy-table-header">Definitions</th>
   </tr>
 </thead>
 <tbody>
 
   <tr>
+    <td class="fancy-table-body"> Story </td>
+    <td class="fancy-table-body"> 
+      <ol> 1) A telling or retelling of a sequence of events that leads to a conclusion (point). [Brian McDonald]</ol>
+      <ol> 2) Another definition</ol>
+    </td>
+  </tr>
+
+  <tr>
     <td class="fancy-table-body"> Plot </td>
-    <td class="fancy-table-body"> ... </td>
     <td class="fancy-table-body"> ... </td>
   </tr>
 
   <tr>
     <td class="fancy-table-body"> Structure </td>
     <td class="fancy-table-body"> ... </td>
-    <td class="fancy-table-body"> ... </td>
   </tr>
 
   <tr>
     <td class="fancy-table-body"> Thematic </td>
     <td class="fancy-table-body"> ... </td>
-    <td class="fancy-table-body"> ... </td>
   </tr>
 
   <tr>
     <td class="fancy-table-body"> Theme </td>
-    <td class="fancy-table-body"> ... </td>
     <td class="fancy-table-body"> ... </td>
   </tr>
   
