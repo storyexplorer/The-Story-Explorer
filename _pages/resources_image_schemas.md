@@ -10,12 +10,12 @@ permalink: /resources/image-schema-list/
 
 This is an incomplete list of what Philip Pullman calls "story particles" in his essay titled "Poco a Poco" from *Daemon Voices* [[^daemon]]. Story particles are also known as image schemas or experiential gestalts, and they correspond to the "natural" kinds of experiences that result from human nature: our physical bodies and internal experience, our interactions with our physcial environment, and our interactions with other people within our culture and others. Overall, these story particles are what language and metaphor are made of [[^MWLB]].
 
-I present these story particles as a list of experiences and actions along with their "opposites" (keep in mind how this can be used as a tool to create conflict in a story or show change). I built this list using a variety of sources (like *Daemon Voices* [[^daemon]] and *Meatphors We Live By* [[^MWLB]]) along with my own story analysis and observations. I also include some other relations, entailments, and ideas too. I'll update this too as I discover new schemas.
+I present these story particles as a list of experiences and actions along with their "opposites" (keep in mind how this can be used as a tool to create conflict, change, and contrast.). I built this list using a variety of sources (like *Daemon Voices* [[^daemon]] and *Meatphors We Live By* [[^MWLB]]) along with my own story analysis and observations. I also include some other relations, entailments, and ideas too. I'll update this too as I discover new schemas.
 
-I usually keep this list on paper next to me whenever I am trying to explore the metaphors in a story I'm writing or analyzing. I'll even just make a list of all the image schemas in a story to understand the underlying conceptual systems and fundamental actions. In making new metaphors, it really helps to get creative and combine different ideas from this list with other stories/motifs and see if something cool happens. 
+I usually keep this list on paper next to me whenever I am trying to explore the metaphors in a story I'm writing or analyzing. I'll even just make a list of all the image schemas in a story to understand the underlying conceptual systems and fundamental/repeated actions. In making new metaphors, it really helps to get creative and combine different ideas from this list with other stories/motifs and see if something cool happens. Pullman also highlights that these story particles require emotional coloring in the context of your story to create different meanings. Further, you can use these schemas to create meaningful actions (metaphors) that repeat throughout your story.
 
 [^daemon]: [*Daemon Voices*, Philip Pullman, 2019]({{ site.base }}/resources)
-[^MWLB]: [*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003, see p. 117-119]({{ site.base }}/resources)
+[^MWLB]: [*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003]({{ site.base }}/resources), see p. 117-119
 
 <div class="fancy-table-wrap">
 <table id="table-resources" class="fancy-table">
