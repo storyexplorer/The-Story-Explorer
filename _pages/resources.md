@@ -5,9 +5,8 @@ permalink: /resources/
 ---
 Here are some of my favorite resources I've come across while learning about storytelling. Some of these sources are a step removed from storytelling but also helped me develop my understanding of the craft.
 
-I'm also working these as well:
-  - [Storytelling Dictionary]({{ sit.baseurl }}/resources/dictionary)
-  - [List of Story Particles (Image Schemas)]({{ sit.baseurl }}/resources/image-schema-list)
+I'm also have a [List of Story Particles (Image Schemas)]({{ sit.baseurl }}/resources/image-schema-list).
+  <!-- - [Storytelling Dictionary]({{ sit.baseurl }}/resources/dictionary) -->
 
 
 <div class="fancy-table-wrap">
@@ -25,11 +24,11 @@ I'm also working these as well:
 <!-- -------- -->
 <!-- WEBSITES -->
 <!-- -------- -->
-  <tr>
+  <!-- <tr>
     <td class="fancy-table-body"> <a id="story-explorer" href="{{ site.baseurl }}/"> The Story Explorer </a>  : ) </td>
     <td class="fancy-table-body">Alex Gigliotti</td>
     <td class="fancy-table-body">Website</td>
-  </tr>
+  </tr> -->
 
   <tr>
     <td class="fancy-table-body"> <a id="pixar-storytelling" href="https://www.khanacademy.org/computing/pixar/storytelling">Pixar in a Box: The Art of Storytelling </a></td>

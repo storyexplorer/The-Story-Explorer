@@ -4,18 +4,16 @@ title: "Story Particles"
 permalink: /resources/image-schema-list/
 ---
 
-**The Main Idea: Use this list to create metaphors or understand those you find in a story.**
+Below is an incomplete list of what Philip Pullman calls "story particles" (AKA image schemas or experiential gestalts). I first read about them in Pullman's *Daemon Voices* [[^daemon]]. Check out Pullman's essays called "The Writing of Stories" and "Poco a Poco".
 
-**Some Background:**
+Like all things with storytelling, this is nothing new. But it is an observation not often talked about. I wrote a brief and pratcial introduction to image schemas in this post LINK. **The Main Idea: Use this list to structure the emotional events of a story. Repeat the structure with variations to make your point.**
 
-This is an incomplete list of what Philip Pullman calls "story particles" in his essay titled "Poco a Poco" from *Daemon Voices* [[^daemon]]. Story particles are also known as image schemas or experiential gestalts, and they correspond to the "natural" kinds of experiences that result from human nature: our physical bodies and internal experience, our interactions with our physcial environment, and our interactions with other people within our culture and others. Overall, these story particles are what language and metaphor are made of [[^MWLB]].
-
-I present these story particles as a list of experiences and actions along with their "opposites" (keep in mind how this can be used as a tool to create conflict, change, and contrast.). I built this list using a variety of sources (like *Daemon Voices* [[^daemon]] and *Meatphors We Live By* [[^MWLB]]) along with my own story analysis and observations. I also include some other relations, entailments, and ideas too. I'll update this too as I discover new schemas.
-
-I usually keep this list on paper next to me whenever I am trying to explore the metaphors in a story I'm writing or analyzing. I'll even just make a list of all the image schemas in a story to understand the underlying conceptual systems and fundamental/repeated actions. In making new metaphors, it really helps to get creative and combine different ideas from this list with other stories/motifs and see if something cool happens. Pullman also highlights that these story particles require emotional coloring in the context of your story to create different meanings. Further, you can use these schemas to create meaningful actions (metaphors) that repeat throughout your story.
+The list below has image schemas with their "opposites". Keep in mind how this can be used as a tool to create conflict, change, and contrast. I built this list from my own observations and from a variety of sources including *Daemon Voices* [[^daemon]], *The Literary Mind* [[^LM]], *Metaphors We Live By* [[^MWLB]], and *More Than Cool Reason* [[^MTCR]]. I'll update this as I discover new ones.
 
 [^daemon]: [*Daemon Voices*, Philip Pullman, 2019]({{ site.base }}/resources)
-[^MWLB]: [*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003]({{ site.base }}/resources), see p. 117-119
+[^MWLB]: [*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003]({{ site.base }}/resources)
+[^LM]: [*The Literary Mind*, Mark Turner, ]({{ site.base }}/resources)
+[^MTCR]: [*More Than Cool Reason*, George Lakoff and Mark Turner]({{ site.base }}/resources)
 
 <div class="fancy-table-wrap">
 <table id="table-resources" class="fancy-table">
@@ -75,11 +73,11 @@ I usually keep this list on paper next to me whenever I am trying to explore the
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> cutting / linking, merging </td>
+    <td class="fancy-table-body"> cutting, separating / linking, merging </td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> handing something to someone </td>
+    <td class="fancy-table-body"> giving (handing something to someone) / taking, stealing </td>
   </tr>
 
   <tr>
@@ -123,7 +121,7 @@ I usually keep this list on paper next to me whenever I am trying to explore the
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> stuck / unstuck, bound / free </td>
+    <td class="fancy-table-body"> stuck, bound / unstuck, free </td>
   </tr>
 
   <tr>
@@ -143,7 +141,7 @@ I usually keep this list on paper next to me whenever I am trying to explore the
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> controlling / not controlling (grasping) </td>
+    <td class="fancy-table-body"> controlling (grasping) / not controlling </td>
   </tr>
 
   <tr>
