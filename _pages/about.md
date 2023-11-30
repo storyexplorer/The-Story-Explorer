@@ -1,41 +1,35 @@
 ---
 layout: page
-title: About
+title: About The Story Explorer
 permalink: /about/
 ---
-
-## About The Story Explorer 
 
 <div style="text-align:center"> 
 <img src="{{ site.baseurl }}/images/compass.svg" alt="The Story Explorer logo" style="width: 150px;"/>
 </div>
 
 <div style="text-align:center; font-size: 17px"> 
-<i>Exploring stories, storytelling, and the stories we live by</i>
+<i>Exploring the craft of storytelling</i>
 </div>
 
-The Story Explorer is all about exploring stories, storytelling, and the stories we live by. How do we craft stories that we can feel, that people connect with and are moved by? How do stories change the world? My goal is to communicate some perspectives on storytelling that can help us tell meaningful stories. 
+The purpose of The Story Explorer is to explore the craft of storytelling. I plan to write posts and share resources that engage in the fundamentals of the craft. By engaging with the fundamentals, I hope to provide a place where you can come and learn about how to tell more meaningful stories.
 
-To explore these ideas and questions, I plan to publish articles and resources that cover three broad categories:
-
-1. *Story Fundamentals* \\
-    Generally discuss and teach the fundamentals of story and storytelling along with some of my own observations on the craft. 
-
-2. *Story Analysis* \\
-    Showing story fundamentals in action in various books, movies, songs/albums, and poems.
-
-3. *Stories We Live By* \\
-    Open-ended dives into the stories, language, and metaphors that shape our lives. The topic name was inspired by the book *Metaphors We Live By* authored by George Lakoff and Mark Johnson.
+This website is for anyone interested in storytelling. As human beings we all share the ability to tell stories. Storytelling is the foundation of how we communicate. So, whether you're a novelist, songwriter, filmmaker, journalist, or just someone wanting to send better emails, this place is for you.
 
 Have questions, comments, suggestions? [I'd love to hear from you!]({{ site.baseurl }}/contact/)
 
 The Story Explorer is currently hosted through [GitHub Pages](https://pages.github.com/). I built the site using [Jekyll](https://jekyllrb.com/), starting from the [Reverie theme template](https://github.com/amitmerchant1990/reverie).
+
 
 ## About the Author
 <div style="text-align:center"> 
 image of me, Alex Gigliotti, coming soon...
 </div>
 
-I started learning about storytelling in 2018 to improve my teaching and communication of [my research](https://scholar.google.com/citations?user=dmcdPhIAAAAJ&hl=en). The next year -- after being inspired by Philip Pullman's *The Secret Commonwealth* -- I started creative writing. Ever since, I've been exploring ways to write meaningful stories. I decided to make The Story Explorer in 2022 to share and teach about my ongoing endeavors in storytelling. 
+I began making a conscious effort to learn more about storytelling in 2018. At the time, I was a [research scientist and engineer](https://scholar.google.com/citations?user=dmcdPhIAAAAJ&hl=en), and (my favorite) part of my job was teaching and tutoring. I quickly found storytelling to be incredibly interesting and an incredibly helpful tool. I was able to better serve my students and improve my research communication. About a year that, I started exploring creative writing and science communication, and haven't stopped since. 
 
-My ultimate goal is to create well-crafted, meaningful stories and write them as books. I typically read and craft stories that would land in the fantasy genre, but any genre is open to me as long as the story is good. I particularly love how metaphors can be reimagined in new and really cool ways when our physical reality is no longer a bound on the story, espeically when those metaphors end up showing us something meaningful about the reality of human experience and/or our world. Besides the above, I also enjoy listening to and playing music, cooking, and going for walks. As for music, my main instrument is guitar, and occasionally I dabble in songwriting for fun.
+I learned the bulk of my storytelling knowledge from [Brian McDonald](https://writeinvisibleink.com/). I took Brian's [Storytelling 101 class](https://youareastoryteller.podia.com/) in January 2023 and found it to be an invaluable resource. On top of being an awesome person and storyteller, Brian is a great teacher. Everything he teaches is based on real-world observation of how people tell stories to each other. As a scientist, I was drawn to Brian's teaching approach, and I hope to carry it on here. 
+
+As for my own creative work, it is still in progress as of December 2023. I am in the process of honing my craft and writing stories. The goal for my creative works is this: Create stories that are sustenance for the heart and life of others. More to come on this.
+
+Besides the above, I also enjoy listening to and playing music, cooking, going for walks, and learning (I'm curious about almost everything). As for music, my main instrument is guitar, and occasionally I dabble in songwriting for fun.

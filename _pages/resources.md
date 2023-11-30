@@ -3,9 +3,9 @@ layout: page
 title: Storytelling Resources
 permalink: /resources/
 ---
-Here are some of my favorite resources I've come across while learning about storytelling. Some of these sources are a step removed from storytelling but also helped me develop my understanding of the craft.
+Here are some storytelling resources I've found helpful. Some of these sources are a step removed from storytelling but may also help develop an understanding of the craft.
 
-I'm also have a [List of Story Particles (Image Schemas)]({{ sit.baseurl }}/resources/image-schema-list).
+I also have a [List of Story Particles (Image Schemas)]({{ sit.baseurl }}/resources/image-schema-list).
   <!-- - [Storytelling Dictionary]({{ sit.baseurl }}/resources/dictionary) -->
 
 

@@ -4,14 +4,14 @@ permalink: /posts/all/
 title:
 ---
 
-<cat-nav>
+<!-- <cat-nav>
   <a style="color:#263573" href="{{ site.baseurl }}/posts/all">All</a>
   <a href="{{ site.baseurl }}/posts/story-fundamentals">Story Fundamentals</a>
   <a href="{{ site.baseurl }}/posts/story-analysis">Story Analysis</a>
   <a href="{{ site.baseurl }}/posts/stories-we-live-by">Stories We Live By</a>
 </cat-nav>
 
-<hr>
+<hr> -->
 
 <div class="posts">
   {% for post in site.posts %}
