@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /posts/all/
-title:
+title: All Posts
 ---
 
 <!-- <cat-nav>

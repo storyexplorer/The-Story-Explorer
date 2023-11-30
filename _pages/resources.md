@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 Here are some storytelling resources I've found helpful. Some of these sources are a step removed from storytelling but may also help develop an understanding of the craft.
 
-I also have a [List of Story Particles (Image Schemas)]({{ sit.baseurl }}/resources/image-schema-list).
+I also have a [List of Story Particles (Image Schemas)]({{site.baseurl}}/resources/image-schema-list).
   <!-- - [Storytelling Dictionary]({{ sit.baseurl }}/resources/dictionary) -->
 
 
