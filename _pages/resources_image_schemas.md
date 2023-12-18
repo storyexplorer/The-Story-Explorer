@@ -6,7 +6,7 @@ permalink: /resources/image-schema-list/
 
 Below is an incomplete list of what Philip Pullman calls "story particles" (AKA image schemas or experiential gestalts). I first read about them in Pullman's *Daemon Voices* [[^daemon]]. Check out Pullman's essays called "The Writing of Stories" and "Poco a Poco".
 
-Like all things with storytelling, this is nothing new. But it is an observation not often talked about. I wrote a brief and pratcial introduction to image schemas in this post LINK. **The Main Idea: Use this list to structure the emotional events of a story. Repeat the structure with variations to make your point.**
+Like all things with storytelling, this is nothing new. But it is an observation not often talked about. I plan to write a brief and pratcial introduction to image schemas in a post at some point. But here's the main idea: Use this list to structure the emotional events of a story. Repeat the structure with variations to make your point.**
 
 The list below has image schemas with their "opposites". Keep in mind how this can be used as a tool to create conflict, change, and contrast. I built this list from my own observations and from a variety of sources including *Daemon Voices* [[^daemon]], *The Literary Mind* [[^LM]], *Metaphors We Live By* [[^MWLB]], and *More Than Cool Reason* [[^MTCR]]. I'll update this as I discover new ones.
 

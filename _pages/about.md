@@ -12,7 +12,7 @@ permalink: /about/
 <i>Exploring the craft of storytelling</i>
 </div>
 
-The purpose of The Story Explorer is to explore the craft of storytelling. I plan to write posts and share resources that engage in the fundamentals of the craft. By engaging with the fundamentals, I hope to provide a place where you can come and learn about how to tell more meaningful stories.
+The purpose of The Story Explorer is to explore the craft of storytelling. I plan to write posts and share resources that engage in the fundamentals of the craft. By engaging with the fundamentals, I hope to provide a place where you can come and learn about how to tell more meaningful stories. I am still learning
 
 This website is for anyone interested in storytelling. As human beings we all share the ability to tell stories. Storytelling is the foundation of how we communicate. So, whether you're a novelist, songwriter, scientist, filmmaker, journalist, or just someone wanting to send better emails, this place is for you.
 
