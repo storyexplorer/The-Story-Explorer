@@ -52,10 +52,11 @@ So, keep your story as simple and efficient as needed. If you need more depth an
 
 <br>
 Sources and Notes:
+<div class="disclosure">Any link with * before it is an affiliate link.</div>
 
 [^YAAS-simple]: [You Are A Storyteller, *Why Simplicity Leads to Better Storytelling*](https://www.youtube.com/watch?v=EztEFLxV6zg) 
 [^MW-complex]: [Merriam-Webster, "Complex"](https://www.merriam-webster.com/dictionary/complex)
-[^odyssey]: Note: On the [Resources]({{ site.base }}/resources/) page, check out my Favorites List. I highly recommend Mandelbaum's translation of *The Odyssey*! 
+[^odyssey]: Note: I highly recommend *[Alan Mandelbaum's translation of *The Odyssey*](https://bookshop.org/a/88122/9780553213997)! 
 [^HA-soundtrack]: [*Home Alone* Soundtrack](https://songwhip.com/john-williams/home-alone-original-motion-picture-soundtrack)
 [^YAAS-contrast]: [You Are A Storyteller, *Contrast is How We See*](https://www.youtube.com/watch?v=c9khlnQYak8)
 

@@ -3,10 +3,14 @@ layout: page
 title: Storytelling Resources
 permalink: /resources/
 ---
-Here are some storytelling resources I've found helpful. Some of these sources are a step removed from storytelling but may also help develop an understanding of the craft.
 
-Quick Disclosure:
-I'm an affiliate with [Bookshop.org](https://bookshop.org/). Any of the links you see with a * before it means that it's an affiliate link. I earn a commission at no extra cost to you if you click through those links and make a purchase. I appreciate the support if you choose to purchase anything! Best of all, [Bookshop splits their profits](https://bookshop.org/info/about-us) with indpendent booksellers around the world! 
+<div class="disclosure">
+  Quick Disclosure:
+  I'm an affiliate with <a href="https://bookshop.org/">Bookshop.org</a>. Any of the links you see with a * before it means that it's an affiliate link. I earn a commission at no extra cost to you if you click through those links and make a purchase. I appreciate the support if you choose to purchase anything! Best of all, <a href="https://bookshop.org/info/about-us">Bookshop splits their profits</a> with indpendent booksellers around the world!
+</div>
+
+
+Here are some storytelling resources I've found helpful. Some of these sources are a step removed from storytelling but may also help develop an understanding of the craft.
 
 Other than what's in the table below, you can check out:
 

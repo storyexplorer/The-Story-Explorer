@@ -35,6 +35,16 @@ body {
   height: 100%;
 }
 
+.disclosure {
+  background: #fff;
+  font-family: $site_font;
+  color: $black;
+  line-height: 1.3;
+  font-weight: 500;
+  font-size: 16px;
+  height: 100%;
+}
+
 .container {
   margin: 0 auto;
   max-width: 1000px;
