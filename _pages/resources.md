@@ -5,8 +5,20 @@ permalink: /resources/
 ---
 Here are some storytelling resources I've found helpful. Some of these sources are a step removed from storytelling but may also help develop an understanding of the craft.
 
-I also have a [List of Story Particles (Image Schemas)]({{site.baseurl}}/resources/image-schema-list).
-  <!-- - [Storytelling Dictionary]({{ sit.baseurl }}/resources/dictionary) -->
+Quick Disclosure:
+I'm an affiliate with [Bookshop.org](https://bookshop.org/). Any of the links you see with a * before it means that it's an affiliate link. I earn a commission at no extra cost to you if you click through those links and make a purchase. I appreciate the support if you choose to purchase anything! Best of all, [Bookshop splits their profits](https://bookshop.org/info/about-us) with indpendent booksellers around the world! 
+
+Other than what's in the table below, you can check out:
+
+[My List of Story Particles (Image Schemas)]({{site.baseurl}}/resources/image-schema-list)
+
+<!-- - [Storytelling Dictionary]({{ sit.baseurl }}/resources/dictionary) -->
+
+*[My whole Bookshop storefront](https://bookshop.org/shop/thestoryexplorer)
+
+*[Bookshop Storytelling Resources List](https://bookshop.org/lists/storytelling-resources-the-story-explorer?)
+
+*[Bookshop Favorites List](https://bookshop.org/lists/favorites-the-story-explorer?)
 
 
 <div class="fancy-table-wrap">
@@ -59,12 +71,16 @@ I also have a [List of Story Particles (Image Schemas)]({{site.baseurl}}/resourc
   </tr>  
 
   <tr>
+    <td class="fancy-table-body"> <a id="crash-course" href="https://thecrashcourse.com/">Crash Course</a></td>
+    <td class="fancy-table-body">Crash Course</td>
+    <td class="fancy-table-body">Video</td>
+  </tr>  
+
+  <tr>
     <td class="fancy-table-body"> <a id="lfts" href="https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw">Lessons from the Screenplay</a></td>
     <td class="fancy-table-body">Michael Tucker</td>
     <td class="fancy-table-body">Video</td>
   </tr>
-  
-
 
 <!-- ------- -->
 <!-- PODCAST -->
@@ -76,7 +92,7 @@ I also have a [List of Story Particles (Image Schemas)]({{site.baseurl}}/resourc
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id = "tsl" href="https://writeinvisibleink.com/episodes/">You Are a Storyteller </a></td>
+    <td class="fancy-table-body"> <a id = "YAAS" href="https://writeinvisibleink.com/episodes/">You Are a Storyteller </a></td>
     <td class="fancy-table-body">Brian McDonald and Jesse Bryan</td>
     <td class="fancy-table-body">Podcast</td>
   </tr>
@@ -85,54 +101,88 @@ I also have a [List of Story Particles (Image Schemas)]({{site.baseurl}}/resourc
 <!-- BOOK -->
 <!-- ---- -->
   <tr>
-    <td class="fancy-table-body"> <a id="daemon-voices" href="https://bookshop.org/p/books/daemon-voices-on-stories-and-storytelling-philip-pullman/12076374?ean=9780525562955">Daemon Voices: On Stories and Storytelling </a></td>
+    <td class="fancy-table-body"> <a id="daemon-voices" href="https://bookshop.org/a/88122/9780525562955">*Daemon Voices: On Stories and Storytelling </a></td>
     <td class="fancy-table-body">Philip Pullman</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="invisible-ink" href="https://bookshop.org/p/books/invisible-ink-a-practical-guide-to-building-stories-that-resonate-brian-mcdonald/11670606?ean=9780998534473">Invisible Ink</a></td>
+    <td class="fancy-table-body"> <a id="invisible-ink" href="https://bookshop.org/a/88122/9780998534473">*Invisible Ink</a></td>
     <td class="fancy-table-body">Brian McDonald</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="steering-the-craft" href="https://bookshop.org/p/books/steering-the-craft-a-twenty-first-century-guide-to-sailing-the-sea-of-story-ursula-k-le-guin/7084668?ean=9780544611610">Steering the Craft</a></td>
+    <td class="fancy-table-body"> <a id="land-of-the-dead" href="https://bookshop.org/a/88122/9781626727311">*Land of the Dead</a></td>
+    <td class="fancy-table-body">Brian McDonald</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> <a id="golden-theme" href="https://bookshop.org/a/88122/9780998534411">*The Golden Theme</a></td>
+    <td class="fancy-table-body">Brian McDonald</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> <a id="steering-the-craft" href="https://bookshop.org/a/88122/9780544611610">*Steering the Craft</a></td>
     <td class="fancy-table-body">Ursula K. Le Guin</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="brown-atlas" href="https://bookshop.org/p/books/atlas-of-the-heart-mapping-meaningful-connection-and-the-language-of-human-experience-brene-brown/17210802?ean=9780399592553">Atlas of the Heart </a></td>
+    <td class="fancy-table-body"> <a id="brown-atlas" href="https://bookshop.org/a/88122/9780399592553">*Atlas of the Heart </a></td>
     <td class="fancy-table-body">Bren&eacute; Brown</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id = "mwlb" href="https://bookshop.org/p/books/metaphors-we-live-by-george-lakoff/6803420?ean=9780226468013">Metaphors We Live By</a></td>
+    <td class="fancy-table-body"> <a id = "mwlb" href="https://bookshop.org/a/88122/9780226468013">*Metaphors We Live By</a></td>
     <td class="fancy-table-body">George Lakoff and Mark Johnson</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="literary-mind" href="https://bookshop.org/p/books/the-literary-mind-the-origins-of-thought-and-language-mark-turner/11845849?ean=9780195126679">The Literary Mind: The Origins of Thought and Language</a></td>
+    <td class="fancy-table-body"> <a id="literary-mind" href="https://bookshop.org/a/88122/9780195126679">*The Literary Mind: The Origins of Thought and Language</a></td>
     <td class="fancy-table-body">Mark Turner</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="literary-mind" href="">What I Talk About When I Talk About Running</a></td>
+    <td class="fancy-table-body"> <a id="mtcr" href="https://bookshop.org/a/88122/9780226468129">*More Than Cool Reason</a></td>
+    <td class="fancy-table-body">George Lakoff and Mark Turner</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> <a id="murakami-running" href="https://bookshop.org/a/88122/9780307389831">*What I Talk About When I Talk About Running</a></td>
     <td class="fancy-table-body">Haruki Murakami</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> <a id="literary-mind" href="">On Becoming a Person: A Therapist's View of Psychotherapy</a></td>
+    <td class="fancy-table-body"> <a id="becoming-a-person" href="https://bookshop.org/a/88122/9780395755310">*On Becoming a Person: A Therapist's View of Psychotherapy</a></td>
     <td class="fancy-table-body">Carl Rogers</td>
     <td class="fancy-table-body">Book</td>
   </tr>
 
+  <tr>
+    <td class="fancy-table-body"> <a id="directing-actors" href="https://bookshop.org/a/88122/9781615933211">*Directing Actors</a></td>
+    <td class="fancy-table-body">Judith Weston</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
 
+  <tr>
+    <td class="fancy-table-body"> <a id="elements-of-style" href="https://bookshop.org/a/88122/9780205313426">*The Elements of Style</a></td>
+    <td class="fancy-table-body">William Strunk and E.B. White</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> <a id="creativity-inc" href="https://bookshop.org/a/88122/9780593594643">*Creativity, Inc.</a></td>
+    <td class="fancy-table-body">Ed Catmull with Amy Wallace</td>
+    <td class="fancy-table-body">Book</td>
+  </tr>
 
 <!-- -------- -->
 <!-- ACADEMIC -->

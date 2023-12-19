@@ -28,7 +28,7 @@ body {
   background: #fff;
   //font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-family: $site_font;
-  color: $darkGray;
+  color: $black;
   line-height: 1.7;
   font-weight: 500;
   font-size: 20px;
@@ -408,7 +408,7 @@ cat-nav {
   a {
     display: inline-block;
     margin-left: 20px;
-    color: $darkGray;
+    color: $darkerGray;
     text-align: right;
     font-weight: 600;
     letter-spacing: 1px;
@@ -572,10 +572,10 @@ hr {
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: $darkGray;
-    font-size: 22px;
-    font-style: italic;
-    background-color: $lightGray;
+    color: $black;
+    // font-size: 22px;
+    // font-style: italic;
+    // background-color: $lightGray;
   }
 
   .you-may-like{
