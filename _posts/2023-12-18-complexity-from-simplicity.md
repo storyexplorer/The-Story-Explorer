@@ -14,7 +14,7 @@ Before going on, it might help to remind ourselves of the definition of complex.
 
 In terms of story, I first think of complex characters. These are characters who have two or more often conflicting feelings about something.
 
-For example, Odysseus in Homer's *Odyssey* [[^odyssey]]. At the beginning of the story, Odysseus has two conflicting feelings about leaving Calypso's grotto to voyage home: He longs to go home, to see his homeland, and to see his family; and at the same time, he is afraid to go because of Poseidon's intent on vengeance. 
+For example, Odysseus in Homer's *Odyssey* [[^odyssey]]. At the beginning of the story, Odysseus has two conflicting feelings about his voyage home: He longs to go home, to see his homeland, and to see his family; and at the same time, he is afraid to go because of Poseidon's intent on vengeance. 
 
 Odysseus's conflicting feelings make him a complex character with some psychological depth. Notice how Odysseus's feelings consist of two simple parts: (1) longing for home and (2) afraid to journey home. Both are easy to understand and fit in the story's context. It feels like a very human reaction.
 
