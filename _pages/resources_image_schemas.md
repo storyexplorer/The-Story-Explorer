@@ -4,16 +4,11 @@ title: "Story Particles"
 permalink: /resources/image-schema-list/
 ---
 
-Below is an incomplete list of what Philip Pullman calls "story particles" (AKA image schemas or experiential gestalts). I first read about them in Pullman's *Daemon Voices* [[^daemon]]. Check out Pullman's essays called "The Writing of Stories" and "Poco a Poco".
+Below is an incomplete list of what Philip Pullman calls "story particles" (AKA image schemas or experiential gestalts). I first read about them in Pullman's *Daemon Voices* [[^daemon]]. Check out Pullman's essays called "The Writing of Stories" and "Poco a Poco". In short, story particles are fundamental building blocks of human experience that require context for emotional coloring.
 
-Like all things with storytelling, this is nothing new. But it is an observation not often talked about. I plan to write a brief and pratcial introduction to image schemas in a post at some point. But here's the main idea: *Use this list to structure the emotional events of a story. Repeat the structure with variations to make your point.*
+Like all things with storytelling, this is nothing new. But it is an observation not often talked about. I plan to write a brief and pratcial introduction to image schemas in a series of posts on metaphor at some point. Meanwhile, here's the main idea: *Use this list to structure the emotional events of a story. Repeat the structure with variations to make your point.*
 
 The list below has image schemas with their "opposites". Keep in mind how this can be used as a tool to create conflict, change, and contrast. I built this list from my own observations and from a variety of sources including *Daemon Voices* [[^daemon]], *The Literary Mind* [[^LM]], *Metaphors We Live By* [[^MWLB]], and *More Than Cool Reason* [[^MTCR]]. I'll update this as I discover new ones.
-
-[^daemon]: [*Daemon Voices*, Philip Pullman, 2019]({{ site.base }}/resources/#daemon-voices)
-[^MWLB]: [*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003]({{ site.base }}/resources/#mwlb)
-[^LM]: [*The Literary Mind*, Mark Turner, ]({{ site.base }}/resources/#literary-mind)
-[^MTCR]: [*More Than Cool Reason*, George Lakoff and Mark Turner]({{ site.base }}/resources/#mtcr)
 
 <div class="fancy-table-wrap">
 <table id="table-resources" class="fancy-table">
@@ -165,12 +160,147 @@ The list below has image schemas with their "opposites". Keep in mind how this c
   </tr>
 
   <tr>
-    <td class="fancy-table-body"> ... </td>
+    <td class="fancy-table-body"> blending, mixing, stirring something (cycles) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> softening / hardening </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> holding on / letting go (contraint / release) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> awakening / sleeping </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> death / birth, rebirth (creation / destruction) (leaving and never returning) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> searching for something and finding</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> hurting / healing </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> same / different (comparision, reflection) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> hesitation, uncertainty / decisive, certain </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> wonder, curiosity / closed-minded, fear </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> belief / disbelief </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> time (before / after) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> dropping something (height, up / down) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> rougher / smoother </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> collection, group / single, alone </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> contact / no contact (touching, communication) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> waiting for something </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> stationary / motion </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> resting -- stationary / motion -- healing, recovering </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> scaling something (getting bigger / smaller) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> inward / outward (oku) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> spacing (ma) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> wider / narrower </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> tangible, real / intangible, fake ... celestial, otherworldly, imagined</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> between two or more things (twilight) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> near / far </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> container (interior, exterior, surface) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> center / periphery (balance) </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> left / right </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> straight / curved </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> forced / spontaneous </td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> degree of intensity </td>
   </tr>
 
 </tbody>
 </table>
 </div>
+
+
+## Sources
+<div class="disclosure">Any link with * before it is an affiliate link.</div>
+
+[^daemon]: *[*Daemon Voices*, Philip Pullman, 2019](https://bookshop.org/a/88122/9780525562955)
+[^MWLB]: *[*Meatphors We Live By*, George Lakoff and Mark Johnson, 2003](https://bookshop.org/a/88122/9780226468013)
+[^LM]: *[*The Literary Mind*, Mark Turner](https://bookshop.org/a/88122/9780195126679)
+[^MTCR]: *[*More Than Cool Reason*, George Lakoff and Mark Turner](https://bookshop.org/a/88122/9780226468129)
+
+
 
 <!-- Table sort function from https://www.tablesgenerator.com/html_tables#  -->
 <script charset="utf-8">
