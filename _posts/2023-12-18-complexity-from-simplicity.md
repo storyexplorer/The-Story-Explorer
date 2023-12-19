@@ -51,7 +51,7 @@ As characteristic of most of his scores, Williams captures the emotional nuance 
 So, keep your story as simple and efficient as needed. If you need more depth and nuance to capture the story's emotional core, introduce complexity with simple parts. 
 
 <br>
-Sources:
+Sources and Notes:
 
 [^YAAS-simple]: [You Are A Storyteller, *Why Simplicity Leads to Better Storytelling*](https://www.youtube.com/watch?v=EztEFLxV6zg) 
 [^MW-complex]: [Merriam-Webster, "Complex"](https://www.merriam-webster.com/dictionary/complex)
