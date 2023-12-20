@@ -42,7 +42,7 @@ The second example of complexity enhancing the story comes from *Home Alone*'s s
 
 This piece is composed of two parts. The first half is very musically complex. The melody is syncopated, chromatic (doesn't follow the scale of the key it's in), and strongly clashes with the harmony and slides of the strings. Yet, even with all that, John Williams still gives the listener this melody in small parts, and he repeats those small parts so that one can still follow. To my ear, it's an incredible piece on its own.  
 
-But the second half makes the piece go from incredible to classic. *"Somewhere in My Memory"* serves as a direct contrast to the chaos of the first half (Contrast is How We See [[^YAAS-contrast]]). The main melody is diatonic (uses the scale of the key) and falls on strong beats (not as much syncopation). But, the harmony is still complex, and that's the key to this second half.
+But the second half makes the piece go from incredible to classic. *Somewhere in My Memory* serves as a direct contrast to the chaos of the first half (Contrast is How We See [[^YAAS-contrast]]). The main melody is diatonic (uses the scale of the key) and falls on strong beats (not as much syncopation). But, the harmony is still complex, and that's the key to this second half.
 
 Many musicians (i.e. just me working out how to play it on guitar) would probably approach this by having the harmony follow the melody (in this case a 1-4-5 pattern). It's the simplest way to do it. The result: very cheesy, no heart. On a closer listen, Williams put the melody in front of complex harmony that follows an unusual but simple pattern (1-7-6-7 bass motion). This makes the lyrics and music feel beautiful, heartfelt, and wistful. After the beginning section, then come some chord and key changes reminiscent of classic jazz standards; the melody soars; and this beautiful composition is complete. 
 
@@ -50,6 +50,11 @@ As characteristic of most of his scores, Williams captures the emotional nuance 
 
 So, keep your story as simple and efficient as needed. If you need more depth and nuance to capture the story's emotional core, introduce complexity with simple parts. 
 
+**Update 12/19/23:** 
+
+[Nahre Sol](https://www.elbphilharmonie.de/en/mediatheque/creator-in-residence-nahre-sol/882), the current creator in residence at the Elbphilharmonie, released an [excellent video about John Williams's music](https://www.youtube.com/watch?v=hel9mGippUU) today (day after my original post!). We both talk about many of the same points, but she does a much more thorough job on the music end than I could. There's even a soundbite of Williams himself talking about simplicity!
+
+In my post, I referenced the harmony of *Somewhere in My Memory* using some numbers (1-4-5 vs. 1-7-6-7). It was an attempt to describe the cheesy vs. heartfelt harmony for those who might have a bit of a music background. Well, Nahre covers this same point in her video! Everyone can check out the [4:00 mark and *hear* it](https://youtu.be/hel9mGippUU?si=OmmH-KkvbbSBGO4X&t=242). Nahre perfectly demonstrates what I was attempting to describe except with *Hedwig's Theme* from *Harry Potter*.
 
 ## Sources and Notes
 <div class="disclosure">Any link with * before it is an affiliate link.</div>
