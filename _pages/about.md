@@ -31,8 +31,8 @@ Besides the above, I also enjoy listening to and playing music, cooking, going f
 
 <br>
 
-Have questions, comments, suggestions? [I'd love to hear from you!]({{site.baseurl}}/contact/)
+Have questions, comments, suggestions? I'd love to hear from you! You can join [The Story Explorer Discord](https://discord.gg/kA4fhRPJw6) to make a comment or send me message. Otherwise, my email is posted [here]({{site.baseurl}}/contact/).
 
 Want to support The Story Explorer? [Please check out the Support Page!]({{site.baseurl}}/support)
 
-The Story Explorer is currently hosted through [GitHub Pages](https://pages.github.com/). I built the site using [Jekyll](https://jekyllrb.com/), starting from the [Reverie theme template](https://github.com/amitmerchant1990/reverie).
+The Story Explorer is currently hosted through [GitHub Pages](https://pages.github.com/). I built the site using [Jekyll](https://jekyllrb.com/), starting from the [Reverie theme template](https://github.com/amitmerchant1990/reverie). Feel free to [check out my repo](https://github.com/storyexplorer/storyexplorer.github.io).

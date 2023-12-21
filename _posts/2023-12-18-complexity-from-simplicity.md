@@ -2,6 +2,7 @@
 layout: post
 title: Complexity from Simplicity
 categories: [Story Fundamentals]
+discordThreadID: 1187193719187836940
 excerpt: If we want to capture reality, how do we keep things simple while describing something that feels or is complicated?
 ---
 A very practical and useful rule of storytelling is to keep the story as simple and efficient as possible. Simplicity leads to better storytelling [[^YAAS-simple]]. 

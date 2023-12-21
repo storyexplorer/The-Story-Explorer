@@ -26,14 +26,18 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
+  
+  <div class="discord-widgetbot-comments">
+    <h2>Comments</h2>
+    <widgetbot
+    id="widgetbot"
+    server="1187145256555266109"
+    channel="1187192118956015747"
+    thread="{{ page.discordThreadID }}"
+    width=100%
+    height=100%
+    ></widgetbot>
+    <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+  </div>
 
-  <!-- <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
-  </div> -->
-
-  <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>-->
-
-  {% include disqus.html %}
 </article>
