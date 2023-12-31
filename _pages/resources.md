@@ -6,7 +6,7 @@ permalink: /resources/
 
 <div class="disclosure">
   Quick Disclosure:
-  I'm an affiliate with <a href="https://bookshop.org/">Bookshop.org</a>. Any link you see with a * before it means that it's an affiliate link. I earn a commission at no extra cost to you if you click through those links and make a purchase. I appreciate the support if you choose to purchase anything! Best of all, <a href="https://bookshop.org/info/about-us">Bookshop splits their profits</a> with indpendent booksellers around the world!
+  I'm an affiliate with <a href="https://bookshop.org/">Bookshop.org</a>. Any link you see with a * before it means that it's an affiliate link. I earn a commission at no extra cost to you if you click through those links and make a purchase, even if you choose something besides my recommendations. I appreciate the support if you choose to purchase anything! Best of all, <a href="https://bookshop.org/info/about-us">Bookshop splits their profits</a> with indpendent booksellers around the world!
 </div>
 
 
