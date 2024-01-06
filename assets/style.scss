@@ -628,6 +628,13 @@ hr {
   margin-bottom: 0px;
 }
 
+.copyright {
+  font-size: 14px;
+  padding: 10px;
+  text-align: center;
+  color: $darkGray
+}
+
 footer {
   position: relative;
   text-align: center;
@@ -639,8 +646,9 @@ footer {
     font-size: 16px;
     padding: 12px;
     text-align: center;
-    color: $gray
+    color: $darkGray
   }
+
 }
 
 body:after {
