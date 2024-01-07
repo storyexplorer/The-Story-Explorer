@@ -632,7 +632,7 @@ hr {
   font-size: 14px;
   padding: 10px;
   text-align: center;
-  color: $darkGray
+  // color: $darkGray
 }
 
 footer {
@@ -640,13 +640,14 @@ footer {
   text-align: center;
   padding: 20px 0;
   margin-bottom: -20px;
-  background-color: $lightGray;
+  background-color: $darkblue;
+  color: white;
 
   a {
     font-size: 16px;
     padding: 12px;
     text-align: center;
-    color: $darkGray
+    color: white;
   }
 
 }
@@ -693,13 +694,13 @@ body:after {
 
 .author_title{
   text-align: center;
-  color: #939aa1;
+  color: $darkerGray;
   letter-spacing: 2px;
 }
 
 .post_date{
   text-align: center;
-  color: #939aa1;
+  color: $darkerGray;
 }
 
 .cd-container a {
