@@ -10,7 +10,7 @@
 
 This website was created using Jekyll starting from the [Reverie](https://github.com/amitmerchant1990/reverie) template and is hosted on GitHub Pages.
 
-## Additional Copyright Information
+## Copyright Information
 [The Story Explorer](https://storyexplorer.blog/) © 2023 by Alex Gigliotti is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
 Since the website is based on Reverie, I want to make the structure available for you to use freely. To accomplish that, I've create a [Jekyll theme for you called Explorer](https://github.com/storyexplorer/explorer/tree/main)! This way you can avoid any problems or confusion with copyright on my own content.
