@@ -35,4 +35,4 @@ Have questions, comments, suggestions? I'd love to hear from you! You can join [
 
 Want to support The Story Explorer? [Please check out the Support Page!]({{site.baseurl}}/support)
 
-The Story Explorer is currently hosted through [GitHub Pages](https://pages.github.com/). I built the site using [Jekyll](https://jekyllrb.com/), starting from the [Reverie theme template](https://github.com/amitmerchant1990/reverie). Feel free to [check out my repo](https://github.com/storyexplorer/storyexplorer.github.io).
+The Story Explorer is currently hosted through [GitHub Pages](https://pages.github.com/). I built the site using [Jekyll](https://jekyllrb.com/), starting from the [Reverie theme template](https://github.com/amitmerchant1990/reverie). Feel free to [check out my repo](https://github.com/storyexplorer/storyexplorer.github.io), and the [Explorer Jekyll theme](https://github.com/storyexplorer/explorer/tree/main) based on the site.
