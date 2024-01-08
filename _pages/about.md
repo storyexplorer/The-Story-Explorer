@@ -29,7 +29,7 @@ As for my own creative work, it is in progress (as of writing in December 2023).
 
 Besides the above, I also enjoy listening to and playing music, cooking, going for walks, and learning (I'm curious about almost everything). As for music, my main instrument is guitar, and occasionally I dabble in songwriting for fun.
 
-<br>
+## Other Information
 
 Have questions, comments, suggestions? I'd love to hear from you! You can join [The Story Explorer Discord](https://discord.gg/kA4fhRPJw6) to make a comment or send me message. Otherwise, my email is posted [here]({{site.baseurl}}/contact/).
 
