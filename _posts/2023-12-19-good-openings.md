@@ -2,7 +2,7 @@
 layout: post
 title: What Makes a Good Opening?
 categories: [Story Fundamentals]
-discordThreadID: 1187194092598341733
+discordChannelID: 1194097824351133698
 excerpt: I've observed that the most engaging openings are usually visceral conflicts related to survival information. Ideally, the opening conflict relates directly to what the armature will resolve...
 ---
 What should you include in an opening? How do openings work? Why might one work better than another? Let's dive in and explore some answers. 

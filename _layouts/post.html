@@ -27,13 +27,13 @@ layout: default
     {{ content }}
   </div>
   
+  <!-- thread="{{ page.discordThreadID }}" -->
   <div class="discord-widgetbot-comments">
     <h2>Comments</h2>
     <widgetbot
     id="widgetbot"
     server="1187145256555266109"
-    channel="1187192118956015747"
-    thread="{{ page.discordThreadID }}"
+    channel="{{ page.discordChannelID }}"
     width=100%
     height=100%
     ></widgetbot>
