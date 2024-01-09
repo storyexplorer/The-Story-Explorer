@@ -2,7 +2,7 @@
 layout: post
 title: What is a Story?
 categories: [Story Fundamentals]
-discordChannelID: 
+discordChannelID: 1194407460908302356
 excerpt: The name of this website is The *Story* Explorer. What exactly are we exploring? The definition of story will answer that question.
 ---
 The name of this website is The *Story* Explorer. What exactly are we exploring? The definition of story will answer that question.
