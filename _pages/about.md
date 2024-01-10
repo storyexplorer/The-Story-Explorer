@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="text-align:center"> 
-<img src="{{ site.baseurl }}/images/compass.svg" alt="The Story Explorer logo" style="width: 150px;"/>
+<img src="{{ site.baseurl }}{{ site.avatar }}" alt="The Story Explorer logo" style="width: 150px;"/>
 </div>
 
 <div style="text-align:center; font-size: 17px"> 

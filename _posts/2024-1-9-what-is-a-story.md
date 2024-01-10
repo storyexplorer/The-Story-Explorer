@@ -16,7 +16,7 @@ Before reading on, try to write your own definition of story. Write it down on p
 Now that you've struggled with the definition and have written something down, scroll down past the giant Story Explorer logo to see Brian's definition.
 
 <div style="text-align:center"> 
-    <img src="{{ site.baseurl }}/images/compass.svg" alt="The Story Explorer logo" style="width: auto; height: 100vh"/>
+    <img src="{{ site.baseurl }}{{ site.avatar }}" alt="The Story Explorer logo" style="width: auto; height: 100vh"/>
     <br>
 </div>
 
