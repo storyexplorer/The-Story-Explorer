@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complexity from Simplicity
-categories: [Story Fundamentals]
+categories: [Simplicity]
 discordChannelID: 1194097913861783643
 excerpt: If we want to capture reality, how do we keep things simple while describing something that feels or is complicated?
 ---
