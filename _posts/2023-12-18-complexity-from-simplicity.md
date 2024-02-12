@@ -23,7 +23,7 @@ In real life, we can observe the same complexity Odysseus shows in other people'
 
 As a final case of complexity arising from simplicity, let's look at the movie *Home Alone*. After watching it recently, I noticed two great examples of complexity enhancing the story. 
 
-First is the main character's -- Kevin's -- feelings about his family. In the church scene near the end of the movie, Kevin and his neighbor Marley have a conversation that describes how they feel about family:
+First is the main character's --- Kevin's --- feelings about his family. In the church scene near the end of the movie, Kevin and his neighbor Marley have a conversation that describes how they feel about family:
 
 > Kevin: *I've been kinda a pain lately. I said some things I shouldn't have. I really haven't been too good this year.*
 >

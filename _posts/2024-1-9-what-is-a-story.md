@@ -34,7 +34,7 @@ This definition has a lot of fascinating implications, but for now, here are thr
 Key takeaways on the definition of story:
 - *A story is the telling or retelling of a series of events leading to a conclusion.*
 - We need definitions to help us understand our job as storytellers and to help us communicate with each other.
-- The Story Explorer is all about exploring storytelling -- the craft of telling a story. The definition of story gives us a lot to explore! Soon, I will do some posts on armature. Eventually, I will do more on structure and metaphor.
+- The Story Explorer is all about exploring storytelling --- the craft of telling a story. The definition of story gives us a lot to explore! Soon, I will do some posts on armature. Eventually, I will do more on structure and metaphor.
 
 What do you think about this? What questions do you have? [Join the Discord](https://discord.gg/kA4fhRPJw6), and let's talk in the comments below!
 
@@ -42,4 +42,4 @@ What do you think about this? What questions do you have? [Join the Discord](htt
 
 [^YAAS-defn-story]: You Are A Storyteller, [*What Is a Story?*](https://www.youtube.com/watch?v=eFNxjMmjJnU&list=PLHK7RpTSl-mi0zk4fbd_8FMXxQLFcoVdj)
 [^story-class]: [Brian's Storytelling 101 class](https://youareastoryteller.podia.com/)
-[^bass]: Note: In the *What Is a Story?* podcast linked above, Brian tells a story he heard in an interview with a famous jazz bass player who talked about how he improved just by looking up the definition of bass. Bass comes from "base" -- a foundation. The bass supports everything else. He understood how to do his job better.
+[^bass]: Note: In the *What Is a Story?* podcast linked above, Brian tells a story he heard in an interview with a famous jazz bass player who talked about how he improved just by looking up the definition of bass. Bass comes from "base" --- a foundation. The bass supports everything else. He understood how to do his job better.

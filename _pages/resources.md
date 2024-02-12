@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 <div class="disclosure">
-  Disclosure: I'm an affiliate with <a href="https://bookshop.org/">Bookshop.org</a>. Any link you see with a * before it means that it's an affiliate link. I earn a commission at no extra cost to you if you click through those links and make a purchase, even if you choose something besides my recommendations. I appreciate the support if you choose to purchase anything! Best of all, <a href="https://bookshop.org/info/about-us">Bookshop splits their profits</a> with indpendent booksellers!
+  Disclosure: I'm an affiliate with <a href="https://bookshop.org/">Bookshop.org</a>. Any link you see with a * before it means that it's an affiliate link. For more info, please see my <a href="{{site.baseurl}}/disclosure">full disclosure</a>.
 </div>
 
 
@@ -97,6 +97,12 @@ Other than what's in the table below, you can check out:
   <tr>
     <td class="fancy-table-body"> <a id = "YAAS" href="https://writeinvisibleink.com/episodes/">You Are a Storyteller </a></td>
     <td class="fancy-table-body">Brian McDonald and Jesse Bryan</td>
+    <td class="fancy-table-body">Podcast</td>
+  </tr>
+
+  <tr>
+    <td class="fancy-table-body"> <a id = "SoP" href="https://www.apa.org/news/podcasts/speaking-of-psychology">Speaking of Psychology</a></td>
+    <td class="fancy-table-body">The American Psychological Association (APA)</td>
     <td class="fancy-table-body">Podcast</td>
   </tr>
 

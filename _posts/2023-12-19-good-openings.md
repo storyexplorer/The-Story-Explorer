@@ -19,7 +19,7 @@ Survival information is conveyed through the story's armature. The armature is t
 
 Finally, visceral conflict. By visceral conflict, I mean a conflict that does not require much, if any, setup to be meaningful. Visceral conflicts are these universal, deeply felt human conflicts or problems that link to survival information (examples coming up). To remind ourselves of the definition of visceral: *felt in or as if in the internal organs of the body : deep ... not intellectual : instinctive, unreasoning ... dealing with crude or elemental emotions : earthy ... of, relating to, or located on or among the viscera : splanchnic* [[^MW-visceral]].
 
-With knowledge of the armature, we can craft a specific and visceral opening conflict that ultimately relates to the survival information contained in the armature. Further, this visceral opening gives us time to fully set up what is necessary for a more meaningful story -- all with an engaged audience.
+With knowledge of the armature, we can craft a specific and visceral opening conflict that ultimately relates to the survival information contained in the armature. Further, this visceral opening gives us time to fully set up what is necessary for a more meaningful story --- all with an engaged audience.
 
 We can look to the openings of great stories for examples. I chose five songs for quick analysis on your end. Below, I included the opening conflict type and the armature. I encourage you to look up the lyrics and listen to each song. Focus your awareness on how engaging you feel the openings are. After listening, ask yourself these questions:
 
@@ -31,37 +31,37 @@ What would you say the armature is [[^note-armature]]?
 
 In the notes below this post, there's a list of books and movies that may help with understanding openings. I recommend the same exercise with those or any other great stories.
 
-> (1) *Good Riddance (Time of Your Life)* -- Green Day
+> (1) *Good Riddance (Time of Your Life)* --- Green Day
 > - Links to [lyrics](https://genius.com/Green-day-good-riddance-time-of-your-life-lyrics) and [song](https://songwhip.com/green-day/good-riddance-time-of-your-life2023)
 > - The first line raises a physical survival conflict: Which path to take?
 > - Armature: Make the best of your life with the limited time you have.
-> - Note how the first line -- alone and without context -- is a physical survival conflict. As we get more context, the line builds and becomes a metaphor for something more philosophical and spiritual. 
+> - Note how the first line --- alone and without context --- is a physical survival conflict. As we get more context, the line builds and becomes a metaphor for something more philosophical and spiritual. 
 > 
-> (2) *Fire and Rain* -- James Taylor
+> (2) *Fire and Rain* --- James Taylor
 > - Links to [lyrics](https://genius.com/James-taylor-fire-and-rain-lyrics) and [song](https://songwhip.com/james-taylor/fire-and-rain-1970)
 > - The first line raises an emotional survival conflict: The sudden loss of a relationship.
 > - Armature: We often have less time with those we care for than we think.
 > 
-> (3) *You've Got a Friend* -- Carole King
+> (3) *You've Got a Friend* --- Carole King
 > - Links to [lyrics](https://genius.com/Carole-king-youve-got-a-friend-lyrics) and [song](https://songwhip.com/carole-king/youve-got-a-friend)
 > - The first three lines raise an emotional and social survival conflict: Where do you turn when life is rough?
 > - Armature: When life is rough, call on a trusted friend.
 > 
-> (4) *Big Sky, MT* -- The Arcadian Wild
+> (4) *Big Sky, MT* --- The Arcadian Wild
 > - Links to [lyrics](https://www.thearcadianwild.com/big-sky-mt-lyric) and [song](https://songwhip.com/the-arcadian-wild/big-sky-mt) (and a really neat [live music video](https://www.youtube.com/watch?v=6-Gh0BXu5ww), if interested!)
 > - The first verse raises an emotional and social survival conflict: What's hidden in our future together?
 > - Armature: Life's ups and downs are best faced together.
 > 
-> (5) *Doubting Thomas* -- Nickel Creek
+> (5) *Doubting Thomas* --- Nickel Creek
 > - Links to [lyrics](https://genius.com/Nickel-creek-doubting-thomas-lyrics) and [song](https://songwhip.com/nickel-creek/doubting-thomas)
 > - The first verse raises a spiritual survival conflict: How do we face the uncertainty of our own death?
 > - Armature: We must accept that nothing in life is safe from death's uncertainty.
 
 Now that you thoroughly know I have a taste for folk music, here's a quick review of the key observations on openings:
 - **The most engaging openings are usually visceral conflicts related to survival information. Ideally, the opening conflict should relate directly to what the armature will resolve.** 
-- Visceral Conflict -- universal, deeply felt human conflicts that relate directly to survival information. Not much, if any, setup is necessary to be engaging.
-- Survival Information -- physical, emotional, social/cultural, or spiritual concepts that inform the audience about surviving or living better.
-- Armature -- The point of the story. The survival information written in the form of a sentence. A statement that is key to resolving the conflict of the story.
+- Visceral Conflict --- universal, deeply felt human conflicts that relate directly to survival information. Not much, if any, setup is necessary to be engaging.
+- Survival Information --- physical, emotional, social/cultural, or spiritual concepts that inform the audience about surviving or living better.
+- Armature --- The point of the story. The survival information written in the form of a sentence. A statement that is key to resolving the conflict of the story.
 
 
 ## Sources and Notes

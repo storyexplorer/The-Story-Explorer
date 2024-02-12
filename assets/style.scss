@@ -54,7 +54,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $site_font;
-  color: $darkerGray;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -717,13 +717,13 @@ body:after {
 
 .author_title{
   text-align: center;
-  color: $darkerGray;
+  color: $black;
   letter-spacing: 2px;
 }
 
 .post_date{
   text-align: center;
-  color: $darkerGray;
+  color: $black;
 }
 
 .cd-container a {
