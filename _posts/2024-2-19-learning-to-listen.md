@@ -3,7 +3,7 @@ layout: post
 title: Learning to Listen
 categories: [Armature, Listening]
 discordChannelID: 1209173485247533057
-excerpt: You can understand how to communicate an armature by learning to listen to other's stories.
+excerpt: You can understand how to communicate an armature by learning to listen to other people's stories.
 ---
 
 This post is part two of three in a series on armature. Check out the [last post]({{site.baseurl}}/the-purpose-of-stories) if you haven't already. Without any further delay, let's learn about listening.
