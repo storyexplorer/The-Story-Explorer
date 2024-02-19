@@ -75,7 +75,7 @@ As an example, let's look at the *The Wizard of Oz*. I'm assuming you've seen it
 
 In the beginning, Dorothy is dissatisfied with where she lives and the people around her. So she tries to run away, and then she ends up in Oz (setting --- one "over the rainbow", in color, wonderful) and wants to get home (conflict). So, she follows the Yellow Brick Road to see the Wizard (meaningful action). 
 
-Throughout the story, Dorothy realizes that from the beginning she had everything she was looking for. 
+By the end of the story, Dorothy realizes that from the beginning she had everything she was looking for. 
 
 In terms of other characters, Dorothy had the relationships she found in the Scarecrow, the Tin Man, and the Lion at home on the farm. And speaking of those supporting characters, they also already had what they were looking for: the Scarecrow was always coming up with plans (using his brain), the Tin Man was always showing emotion (heart), and the Lion was always going along on the journey despite being scared (courage). 
 
@@ -91,6 +91,8 @@ To recap, **the purpose of stories is to pass on survival information --- to pas
 
 And here is where things get interesting: you already know how to use armature. The concept is descriptive, not prescriptive, of how humans tell stories. When we tell stories in the wild (in person), we automatically have an armature and we automatically self-edit things that do not contribute to the armature. Otherwise, everyone would always ask, "What's your point?" [[^Note-all-stories-have-armatures]]. In the next post, we will explore how to listen for armature in the wild by being mindful of story structure.
 
+Ready for part two of the series? Here's a link to the next post: [Learning to Listen]({{site.baseurl}}/learning-to-listen).
+
 ## Sources and Notes
 <div class="disclosure">Any link with * before it is an affiliate link.</div>
 
@@ -102,5 +104,5 @@ And here is where things get interesting: you already know how to use armature. 
 [^land-of-the-dead]: *[*Land of the Dead* by Brian McDonald](https://bookshop.org/a/88122/9781626727311)
 [^Sanderson-story-diagram]: [2020 Creative Writing Lectures at BYU, Brandon Sanderson](https://www.youtube.com/watch?v=jrIogch5DBU&list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ&index=3)
 [^Note-think-before-you-speak]: Note: Methods and tools for exploring how to discover an armature in your own work will be a post at some point.
-[^Note-all-stories-have-armatures]: Note: In constructed stories (the ones we sit down to write), it is ideally no different. Every story should have an armature. Unfortunately, not all writers/creators craft their completed stories with an armature, or they do not clearly communicate their armature. That is a mistake in craft.
+[^Note-all-stories-have-armatures]: Note: In constructed stories (the ones we sit down to write), it is ideally no different. Every story should have an armature. Unfortunately, not all writers/creators craft their completed stories with an armature, or they do not clearly communicate their armature. That is a mistake in craft. But, it's important to remember that even the best make mistakes from time to time.
 [^Turner-LM]: *[*The Literary Mind* by Mark Turner](https://bookshop.org/a/88122/9780195126679)

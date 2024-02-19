@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 <div class="disclosure">
-  Disclosure: I'm an affiliate with <a href="https://bookshop.org/">Bookshop.org</a>. Any link you see with a * before it means that it's an affiliate link. For more info, please see my <a href="{{site.baseurl}}/disclosure">full disclosure</a>.
+  Disclosure: I'm an affiliate with <a href="https://bookshop.org/">Bookshop.org</a>. Any link you see with a * before it means that it's an affiliate link. For more info, please see my <a href="{{site.baseurl}}/disclosure">full disclosure</a>. You don't have to pick from only my recommendations either. So long as you click through one of my links, your purchase will support me (check for the Story Explorer logo in the top left corner of Bookshop.org).
 </div>
 
 
