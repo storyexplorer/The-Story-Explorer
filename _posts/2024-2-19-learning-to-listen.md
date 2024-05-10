@@ -69,7 +69,7 @@ Have you observed this pattern before? Can you spot the three-part structure in 
 And of course, don't be like Jim: Set aside some time to rest. :)
 
 ## Bonus: Constructed Stories
-Since humans communicate in the wild using a three-part structure, shouldn't constructed stories (the ones we sit down to write) do the same? Ideally, yes! A great example is James Taylor's song [*The Secret O' Life*](https://songwhip.com/james-taylor/secret-o-life) (but essentially every one of his songs would do). The song begins and ends with the armature, just as we do in the wild: "The secret o' life is enjoying the passage of time." And between those first and last lines, he makes a beautiful Argument! In the future, I'll do some posts about structure in constructed stories.
+Since humans communicate in the wild using a three-part structure, shouldn't constructed stories (the ones we sit down to write) do the same? Ideally, yes! A great example is James Taylor's song [*Secret O' Life*](https://songwhip.com/james-taylor/secret-o-life) (but essentially every one of his songs would do). The song begins and ends with the armature, just as we do in the wild: "The secret o' life is enjoying the passage of time." And between those first and last lines, he makes a beautiful Argument! In the future, I'll do some posts about structure in constructed stories.
 
 ## Sources and Notes
 <div class="disclosure">Any link with * before it is an affiliate link.</div>

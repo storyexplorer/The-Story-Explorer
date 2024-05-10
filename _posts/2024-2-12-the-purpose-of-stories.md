@@ -5,7 +5,7 @@ categories: [Armature, Story Fundamentals]
 discordChannelID: 1206655906712920085
 excerpt: The purpose of stories is to pass on survival information, to pass on an armature.
 ---
-Do you have any stories that you always go back to? Has someone ever told you a story that helped you in some way? I bet you answered yes to those questions, and that you'd say those stories are meaningful. So, what about those stories makes them meaningful?
+Do you have any stories that you always go back to? Has someone ever told you a story that helped you in some way? I bet you answered yes to those questions, and that you'd say those stories are meaningful. So, what is it about those stories that makes them meaningful?
 
 In the [last post]({{site.baseurl}}/what-is-a-story/), I talked about the definition of story. One of the definition's implications is that a story has an armature --- a point or conclusion. Over the next three posts, we'll discuss what an armature is, learn how to listen for armature in the stories people tell, and finally explore how an armature helps the audience make meaning. 
 

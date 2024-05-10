@@ -15,9 +15,41 @@
 
 @font-face {
   font-family: $site_font;
-  src: url("../assets/fonts/Vollkorn-Regular.ttf");
+  src: url("../assets/fonts/Vollkorn/Vollkorn-Regular.ttf");
   font-weight: bolder;
 }
+
+// @font-face {
+//   font-family: $site_font;
+//   font-style: normal;
+//   font-weight: normal;
+//   font-stretch: normal;
+//   src: url('../assets/fonts/Charter/charter_regular.woff2') format('woff2');
+// }
+
+// @font-face {
+// font-family: $site_font;
+// font-style: italic;
+// font-weight: normal;
+// font-stretch: normal;
+// src: url('../assets/fonts/Charter/charter_italic.woff2') format('woff2');
+// }
+
+// @font-face {
+// font-family: $site_font;
+// font-style: normal;
+// font-weight: bold;
+// font-stretch: normal;
+// src: url('../assets/fonts/Charter/charter_bold.woff2') format('woff2');
+// }
+
+// @font-face {
+// font-family: $site_font;
+// font-style: italic;
+// font-weight: bold;
+// font-stretch: normal;
+// src: url('../assets/fonts/Charter/charter_bold_italic.woff2') format('woff2');
+// }
 
 html {
   font-size: 100%;
@@ -702,7 +734,7 @@ body:after {
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
-  font-feature-settings: "kern","liga","dlig","hlig","cswh";
+  font-feature-settings: "kern","liga","hlig","cswh";
   line-height: 1.2;
 }
 
@@ -711,7 +743,7 @@ body:after {
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
-  font-feature-settings: "kern","liga","dlig","hlig","cswh";
+  font-feature-settings: "kern","liga","hlig","cswh";
   line-height: 1.2;
 }
 
